@@ -6,20 +6,21 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 0 | 4 | 0 | `2026-09-25` |
+| **5** | 0 | 5 | 0 | `2026-09-25` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (4)
+### DSA (5)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Find Eventual Safe States](./DSA/General/find-eventual-safe-states) | [PY](./DSA/General/find-eventual-safe-states/solution.py) | ⚪ Unspecified | `General` | `-` |
-| 0002 | [179. Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [PY](./DSA/Graphs/flood-fill-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0003 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [PY](./DSA/Graphs/number-of-provinces/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0004 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0001 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0002 | [Find Eventual Safe States](./DSA/General/find-eventual-safe-states) | [PY](./DSA/General/find-eventual-safe-states/solution.py) | ⚪ Unspecified | `General` | `-` |
+| 0003 | [179. Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [PY](./DSA/Graphs/flood-fill-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0004 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [PY](./DSA/Graphs/number-of-provinces/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0005 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
 
 ---
 
