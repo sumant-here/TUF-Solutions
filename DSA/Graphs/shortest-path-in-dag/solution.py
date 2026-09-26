@@ -23,8 +23,9 @@ class Solution:
         dist[0] = 0 
         for node in topo:
             for nei, wt in adj[node]:
-                if dist[node] + wt <dist[nei]:
-                    dist[nei] = dist[node]  + wt
+                dist[nei] =  min(dist[node]+ wt,dist[nei])
+        #         if dist[node] + wt <dist[nei]:
+        #             dist[nei] = dist[node]  + wt
         for i in range(N):
             if dist[i] == float('inf'):
                 dist[i] = -1
