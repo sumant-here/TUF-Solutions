@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **12** | 0 | 12 | 0 | `2026-09-27` |
+| **13** | 0 | 13 | 0 | `2026-09-27` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (12)
+### DSA (13)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,14 +20,15 @@
 | 0002 | [58. Course Schedule II](./DSA/Graphs/course-schedule-ii) | [PY](./DSA/Graphs/course-schedule-ii/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
 | 0003 | [192. Detect a cycle in a directed graph](./DSA/Graphs/detect-a-cycle-in-a-directed-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
 | 0004 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0005 | [425. Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [PY](./DSA/Graphs/find-eventual-safe-states/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0006 | [179. Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [PY](./DSA/Graphs/flood-fill-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0007 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [PY](./DSA/Graphs/number-of-provinces/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0008 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0009 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0010 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0011 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0012 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0005 | [Dijkstra's Algorithm](./DSA/Graphs/dijkstra's-algorithm) | [PY](./DSA/Graphs/dijkstra's-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0006 | [425. Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [PY](./DSA/Graphs/find-eventual-safe-states/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0007 | [179. Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [PY](./DSA/Graphs/flood-fill-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0008 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [PY](./DSA/Graphs/number-of-provinces/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0009 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0010 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0011 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0012 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0013 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 
 ---
 
