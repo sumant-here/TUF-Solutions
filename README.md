@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **33** | 0 | 33 | 0 | `2026-10-06` |
+| **34** | 0 | 34 | 0 | `2026-10-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (33)
+### DSA (34)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -40,15 +40,16 @@
 | 0022 | [Number Of Ways To Arrive At Destination](./DSA/General/number-of-ways-to-arrive-at-destination) | [PY](./DSA/General/number-of-ways-to-arrive-at-destination/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
 | 0023 | [Path With Minimum Effort](./DSA/Graphs/path-with-minimum-effort) | [PY](./DSA/Graphs/path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 | 0024 | [Print Shortest Path](./DSA/Graphs/print-shortest-path-) | [PY](./DSA/Graphs/print-shortest-path-/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0025 | [Rearrange Array Elements By Sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [PY](./DSA/Arrays/rearrange-array-elements-by-sign/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0026 | [Remove Duplicates From Sorted Array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0027 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0028 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0029 | [Shortest Path With Minimum Effort](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0030 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0031 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0032 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0033 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0025 | [Print The Matrix In Spiral Manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [PY](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0026 | [Rearrange Array Elements By Sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [PY](./DSA/Arrays/rearrange-array-elements-by-sign/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0027 | [Remove Duplicates From Sorted Array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0028 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0029 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0030 | [Shortest Path With Minimum Effort](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0031 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0032 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0033 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0034 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 
 ---
 
