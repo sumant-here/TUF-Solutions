@@ -71,7 +71,7 @@
 | 0053 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
 | 0054 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
 | 0055 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0056 | [750. Upper Bound](./DSA/General/upper-bound) | [PY](./DSA/General/upper-bound/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0056 | [750. Upper Bound](./DSA/General/upper-bound) | [PY](./DSA/General/upper-bound/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0057 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 
 ---
