@@ -6,83 +6,84 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **67** | 0 | 67 | 0 | `2026-10-17` |
+| **68** | 0 | 68 | 0 | `2026-10-17` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (67)
+### DSA (68)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Bellman Ford Algorithm](./DSA/General/bellman-ford-algorithm) | [PY](./DSA/General/bellman-ford-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
 | 0002 | [Best Time To Buy And Sell Stock](./DSA/General/best-time-to-buy-and-sell-stock) | [PY](./DSA/General/best-time-to-buy-and-sell-stock/solution.py) | ⚪ Unspecified | `General` | `2026-10-17` |
-| 0003 | [203. Bipartite graph](./DSA/Graphs/bipartite-graph) | [PY](./DSA/Graphs/bipartite-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-10-15` |
-| 0004 | [Cheapest Flight Within K Stops](./DSA/Graphs/cheapest-flight-within-k-stops) | [PY](./DSA/Graphs/cheapest-flight-within-k-stops/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-28` |
-| 0005 | [Check If Two Trees Are Identical Or Not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [PY](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0006 | [356. Cherry pickup II](./DSA/General/cherry-pickup-ii) | [PY](./DSA/General/cherry-pickup-ii/solution.py) | ⚪ Unspecified | `General` | `2026-10-17` |
-| 0007 | [7. Climbing stairs](./DSA/General/climbing-stairs) | [PY](./DSA/General/climbing-stairs/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
-| 0008 | [26. Combination Sum](./DSA/Recursion/combination-sum) | [PY](./DSA/Recursion/combination-sum/solution.py) | ⚪ Unspecified | `Recursion` | `2026-10-07` |
-| 0009 | [839. Count Occurrences in a Sorted Array](./DSA/Arrays/count-occurrences-in-a-sorted-array) | [PY](./DSA/Arrays/count-occurrences-in-a-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0010 | [Course Schedule I](./DSA/Graphs/course-schedule-i) | [PY](./DSA/Graphs/course-schedule-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0011 | [58. Course Schedule II](./DSA/Graphs/course-schedule-ii) | [PY](./DSA/Graphs/course-schedule-ii/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0012 | [192. Detect a cycle in a directed graph](./DSA/Graphs/detect-a-cycle-in-a-directed-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0013 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0014 | [Dijkstra's Algorithm](./DSA/Graphs/dijkstra's-algorithm) | [PY](./DSA/Graphs/dijkstra's-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0015 | [425. Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [PY](./DSA/Graphs/find-eventual-safe-states/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0016 | [62. Find minimum in Rotated Sorted Array](./DSA/Arrays/find-minimum-in-rotated-sorted-array) | [PY](./DSA/Arrays/find-minimum-in-rotated-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0017 | [116. Find missing number](./DSA/General/find-missing-number) | [PY](./DSA/General/find-missing-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0018 | [765. Find out how many times the array is rotated](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated) | [PY](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0019 | [448. Find the city with the smallest number of neighbors](./DSA/General/find-the-city-with-the-smallest-number-of-neighbors) | [PY](./DSA/General/find-the-city-with-the-smallest-number-of-neighbors/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0020 | [279. First and last occurrence](./DSA/General/first-and-last-occurrence) | [PY](./DSA/General/first-and-last-occurrence/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0021 | [179. Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [PY](./DSA/Graphs/flood-fill-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0022 | [Floor And Ceil In A Bst](./DSA/Trees/floor-and-ceil-in-a-bst) | [PY](./DSA/Trees/floor-and-ceil-in-a-bst/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0023 | [Floor And Ceil In Sorted Array](./DSA/Arrays/floor-and-ceil-in-sorted-array) | [PY](./DSA/Arrays/floor-and-ceil-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0024 | [127. Floyd warshall algorithm](./DSA/General/floyd-warshall-algorithm) | [PY](./DSA/General/floyd-warshall-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0025 | [321. Frog Jump](./DSA/General/frog-jump) | [PY](./DSA/General/frog-jump/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
-| 0026 | [714. Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [PY](./DSA/General/frog-jump-with-k-distances/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
-| 0027 | [17. Grid unique paths](./DSA/General/grid-unique-paths) | [PY](./DSA/General/grid-unique-paths/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
-| 0028 | [House Robber](./DSA/General/house-robber) | [PY](./DSA/General/house-robber/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
-| 0029 | [32. Inorder Traversal](./DSA/Trees/inorder-traversal) | [PY](./DSA/Trees/inorder-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0030 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [PY](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0031 | [Largest Element](./DSA/General/largest-element) | [PY](./DSA/General/largest-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0032 | [Left Rotate Array](./DSA/Arrays/left-rotate-array) | [PY](./DSA/Arrays/left-rotate-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0033 | [Left Rotate Array By One](./DSA/Arrays/left-rotate-array-by-one) | [PY](./DSA/Arrays/left-rotate-array-by-one/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0034 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [PY](./DSA/Trees/level-order-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0035 | [838. Linear Search](./DSA/General/linear-search) | [PY](./DSA/General/linear-search/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-10-06` |
-| 0036 | [Longest Consecutive Sequence In An Array](./DSA/Arrays/longest-consecutive-sequence-in-an-array) | [PY](./DSA/Arrays/longest-consecutive-sequence-in-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0037 | [Lower Bound](./DSA/General/lower-bound-) | [PY](./DSA/General/lower-bound-/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0038 | [Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [PY](./DSA/General/maximum-consecutive-ones/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0039 | [18. Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [PY](./DSA/Trees/maximum-depth-in-bt/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0040 | [Minimum Multiplications To Reach End](./DSA/General/minimum-multiplications-to-reach-end) | [PY](./DSA/General/minimum-multiplications-to-reach-end/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0041 | [Move Zeros To End](./DSA/General/move-zeros-to-end) | [PY](./DSA/General/move-zeros-to-end/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0042 | [125. Ninja's training](./DSA/General/ninja's-training) | [PY](./DSA/General/ninja's-training/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
-| 0043 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [PY](./DSA/Graphs/number-of-provinces/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0044 | [Number Of Ways To Arrive At Destination](./DSA/General/number-of-ways-to-arrive-at-destination) | [PY](./DSA/General/number-of-ways-to-arrive-at-destination/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0045 | [Path With Minimum Effort](./DSA/Graphs/path-with-minimum-effort) | [PY](./DSA/Graphs/path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0046 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [PY](./DSA/Trees/postorder-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0047 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [PY](./DSA/Trees/preorder-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0048 | [Print Shortest Path](./DSA/Graphs/print-shortest-path-) | [PY](./DSA/Graphs/print-shortest-path-/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0049 | [Print The Matrix In Spiral Manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [PY](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0050 | [Rearrange Array Elements By Sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [PY](./DSA/Arrays/rearrange-array-elements-by-sign/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0051 | [Remove Duplicates From Sorted Array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0052 | [13. Search in BST](./DSA/Trees/search-in-bst) | [PY](./DSA/Trees/search-in-bst/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0053 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0054 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0055 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-10-06` |
-| 0056 | [Search X In Sorted Array](./DSA/Arrays/search-x-in-sorted-array) | [PY](./DSA/Arrays/search-x-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0057 | [Second Largest Element](./DSA/General/second-largest-element) | [PY](./DSA/General/second-largest-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0058 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0059 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0060 | [Shortest Path With Minimum Effort](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0061 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [PY](./DSA/Arrays/single-element-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0062 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0063 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0064 | [249. Triangle](./DSA/General/triangle) | [PY](./DSA/General/triangle/solution.py) | ⚪ Unspecified | `General` | `2026-10-17` |
-| 0065 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0066 | [750. Upper Bound](./DSA/General/upper-bound) | [PY](./DSA/General/upper-bound/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0067 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0003 | [151. Best time to buy and sell stock II](./DSA/General/best-time-to-buy-and-sell-stock-ii) | [PY](./DSA/General/best-time-to-buy-and-sell-stock-ii/solution.py) | ⚪ Unspecified | `General` | `2026-10-17` |
+| 0004 | [203. Bipartite graph](./DSA/Graphs/bipartite-graph) | [PY](./DSA/Graphs/bipartite-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-10-15` |
+| 0005 | [Cheapest Flight Within K Stops](./DSA/Graphs/cheapest-flight-within-k-stops) | [PY](./DSA/Graphs/cheapest-flight-within-k-stops/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-28` |
+| 0006 | [Check If Two Trees Are Identical Or Not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [PY](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0007 | [356. Cherry pickup II](./DSA/General/cherry-pickup-ii) | [PY](./DSA/General/cherry-pickup-ii/solution.py) | ⚪ Unspecified | `General` | `2026-10-17` |
+| 0008 | [7. Climbing stairs](./DSA/General/climbing-stairs) | [PY](./DSA/General/climbing-stairs/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
+| 0009 | [26. Combination Sum](./DSA/Recursion/combination-sum) | [PY](./DSA/Recursion/combination-sum/solution.py) | ⚪ Unspecified | `Recursion` | `2026-10-07` |
+| 0010 | [839. Count Occurrences in a Sorted Array](./DSA/Arrays/count-occurrences-in-a-sorted-array) | [PY](./DSA/Arrays/count-occurrences-in-a-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0011 | [Course Schedule I](./DSA/Graphs/course-schedule-i) | [PY](./DSA/Graphs/course-schedule-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0012 | [58. Course Schedule II](./DSA/Graphs/course-schedule-ii) | [PY](./DSA/Graphs/course-schedule-ii/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0013 | [192. Detect a cycle in a directed graph](./DSA/Graphs/detect-a-cycle-in-a-directed-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0014 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0015 | [Dijkstra's Algorithm](./DSA/Graphs/dijkstra's-algorithm) | [PY](./DSA/Graphs/dijkstra's-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0016 | [425. Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [PY](./DSA/Graphs/find-eventual-safe-states/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0017 | [62. Find minimum in Rotated Sorted Array](./DSA/Arrays/find-minimum-in-rotated-sorted-array) | [PY](./DSA/Arrays/find-minimum-in-rotated-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0018 | [116. Find missing number](./DSA/General/find-missing-number) | [PY](./DSA/General/find-missing-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0019 | [765. Find out how many times the array is rotated](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated) | [PY](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0020 | [448. Find the city with the smallest number of neighbors](./DSA/General/find-the-city-with-the-smallest-number-of-neighbors) | [PY](./DSA/General/find-the-city-with-the-smallest-number-of-neighbors/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0021 | [279. First and last occurrence](./DSA/General/first-and-last-occurrence) | [PY](./DSA/General/first-and-last-occurrence/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0022 | [179. Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [PY](./DSA/Graphs/flood-fill-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0023 | [Floor And Ceil In A Bst](./DSA/Trees/floor-and-ceil-in-a-bst) | [PY](./DSA/Trees/floor-and-ceil-in-a-bst/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0024 | [Floor And Ceil In Sorted Array](./DSA/Arrays/floor-and-ceil-in-sorted-array) | [PY](./DSA/Arrays/floor-and-ceil-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0025 | [127. Floyd warshall algorithm](./DSA/General/floyd-warshall-algorithm) | [PY](./DSA/General/floyd-warshall-algorithm/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0026 | [321. Frog Jump](./DSA/General/frog-jump) | [PY](./DSA/General/frog-jump/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
+| 0027 | [714. Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [PY](./DSA/General/frog-jump-with-k-distances/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
+| 0028 | [17. Grid unique paths](./DSA/General/grid-unique-paths) | [PY](./DSA/General/grid-unique-paths/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
+| 0029 | [House Robber](./DSA/General/house-robber) | [PY](./DSA/General/house-robber/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
+| 0030 | [32. Inorder Traversal](./DSA/Trees/inorder-traversal) | [PY](./DSA/Trees/inorder-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0031 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [PY](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0032 | [Largest Element](./DSA/General/largest-element) | [PY](./DSA/General/largest-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0033 | [Left Rotate Array](./DSA/Arrays/left-rotate-array) | [PY](./DSA/Arrays/left-rotate-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0034 | [Left Rotate Array By One](./DSA/Arrays/left-rotate-array-by-one) | [PY](./DSA/Arrays/left-rotate-array-by-one/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0035 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [PY](./DSA/Trees/level-order-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0036 | [838. Linear Search](./DSA/General/linear-search) | [PY](./DSA/General/linear-search/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-10-06` |
+| 0037 | [Longest Consecutive Sequence In An Array](./DSA/Arrays/longest-consecutive-sequence-in-an-array) | [PY](./DSA/Arrays/longest-consecutive-sequence-in-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0038 | [Lower Bound](./DSA/General/lower-bound-) | [PY](./DSA/General/lower-bound-/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0039 | [Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [PY](./DSA/General/maximum-consecutive-ones/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0040 | [18. Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [PY](./DSA/Trees/maximum-depth-in-bt/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0041 | [Minimum Multiplications To Reach End](./DSA/General/minimum-multiplications-to-reach-end) | [PY](./DSA/General/minimum-multiplications-to-reach-end/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0042 | [Move Zeros To End](./DSA/General/move-zeros-to-end) | [PY](./DSA/General/move-zeros-to-end/solution.py) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0043 | [125. Ninja's training](./DSA/General/ninja's-training) | [PY](./DSA/General/ninja's-training/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
+| 0044 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [PY](./DSA/Graphs/number-of-provinces/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0045 | [Number Of Ways To Arrive At Destination](./DSA/General/number-of-ways-to-arrive-at-destination) | [PY](./DSA/General/number-of-ways-to-arrive-at-destination/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0046 | [Path With Minimum Effort](./DSA/Graphs/path-with-minimum-effort) | [PY](./DSA/Graphs/path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0047 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [PY](./DSA/Trees/postorder-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0048 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [PY](./DSA/Trees/preorder-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0049 | [Print Shortest Path](./DSA/Graphs/print-shortest-path-) | [PY](./DSA/Graphs/print-shortest-path-/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0050 | [Print The Matrix In Spiral Manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [PY](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0051 | [Rearrange Array Elements By Sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [PY](./DSA/Arrays/rearrange-array-elements-by-sign/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0052 | [Remove Duplicates From Sorted Array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0053 | [13. Search in BST](./DSA/Trees/search-in-bst) | [PY](./DSA/Trees/search-in-bst/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0054 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0055 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0056 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-10-06` |
+| 0057 | [Search X In Sorted Array](./DSA/Arrays/search-x-in-sorted-array) | [PY](./DSA/Arrays/search-x-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0058 | [Second Largest Element](./DSA/General/second-largest-element) | [PY](./DSA/General/second-largest-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0059 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0060 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0061 | [Shortest Path With Minimum Effort](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0062 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [PY](./DSA/Arrays/single-element-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0063 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0064 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0065 | [249. Triangle](./DSA/General/triangle) | [PY](./DSA/General/triangle/solution.py) | ⚪ Unspecified | `General` | `2026-10-17` |
+| 0066 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0067 | [750. Upper Bound](./DSA/General/upper-bound) | [PY](./DSA/General/upper-bound/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0068 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 
 ---
 
