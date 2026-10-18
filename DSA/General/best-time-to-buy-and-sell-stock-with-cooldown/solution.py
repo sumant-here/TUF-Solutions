@@ -10,3 +10,5 @@ class Solution:
                 else:
                     dp[i][0] = max(arr[i]+dp[i+2][1],dp[i+1][0])
         return dp[0][1]
+
+        # here as im adding + 2 so there for the range also increase by N+2 
