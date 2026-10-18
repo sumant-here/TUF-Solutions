@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **74** | 0 | 74 | 0 | `2026-10-18` |
+| **75** | 0 | 75 | 0 | `2026-10-18` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (74)
+### DSA (75)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -65,31 +65,32 @@
 | 0047 | [125. Ninja's training](./DSA/General/ninja's-training) | [PY](./DSA/General/ninja's-training/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
 | 0048 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [PY](./DSA/Graphs/number-of-provinces/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
 | 0049 | [Number Of Ways To Arrive At Destination](./DSA/General/number-of-ways-to-arrive-at-destination) | [PY](./DSA/General/number-of-ways-to-arrive-at-destination/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0050 | [86. Partition equal subset sum](./DSA/Recursion/partition-equal-subset-sum) | [PY](./DSA/Recursion/partition-equal-subset-sum/solution.py) | ⚪ Unspecified | `Recursion` | `2026-10-18` |
-| 0051 | [Path With Minimum Effort](./DSA/Graphs/path-with-minimum-effort) | [PY](./DSA/Graphs/path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0052 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [PY](./DSA/Trees/postorder-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0053 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [PY](./DSA/Trees/preorder-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0054 | [Print Shortest Path](./DSA/Graphs/print-shortest-path-) | [PY](./DSA/Graphs/print-shortest-path-/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0055 | [Print The Matrix In Spiral Manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [PY](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0056 | [Rearrange Array Elements By Sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [PY](./DSA/Arrays/rearrange-array-elements-by-sign/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0057 | [Remove Duplicates From Sorted Array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0058 | [13. Search in BST](./DSA/Trees/search-in-bst) | [PY](./DSA/Trees/search-in-bst/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
-| 0059 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0060 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0061 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-10-06` |
-| 0062 | [Search X In Sorted Array](./DSA/Arrays/search-x-in-sorted-array) | [PY](./DSA/Arrays/search-x-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0063 | [Second Largest Element](./DSA/General/second-largest-element) | [PY](./DSA/General/second-largest-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0064 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0065 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0066 | [Shortest Path With Minimum Effort](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0067 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [PY](./DSA/Arrays/single-element-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0068 | [84. Subset sum equals to target](./DSA/Recursion/subset-sum-equals-to-target) | [PY](./DSA/Recursion/subset-sum-equals-to-target/solution.py) | ⚪ Unspecified | `Recursion` | `2026-10-18` |
-| 0069 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0070 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0071 | [249. Triangle](./DSA/General/triangle) | [PY](./DSA/General/triangle/solution.py) | ⚪ Unspecified | `General` | `2026-10-17` |
-| 0072 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0073 | [750. Upper Bound](./DSA/General/upper-bound) | [PY](./DSA/General/upper-bound/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0074 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0050 | [330. Partition a set into two subsets with minimum absolute sum difference](./DSA/Recursion/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference) | [PY](./DSA/Recursion/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference/solution.py) | ⚪ Unspecified | `Recursion` | `2026-10-18` |
+| 0051 | [86. Partition equal subset sum](./DSA/Recursion/partition-equal-subset-sum) | [PY](./DSA/Recursion/partition-equal-subset-sum/solution.py) | ⚪ Unspecified | `Recursion` | `2026-10-18` |
+| 0052 | [Path With Minimum Effort](./DSA/Graphs/path-with-minimum-effort) | [PY](./DSA/Graphs/path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0053 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [PY](./DSA/Trees/postorder-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0054 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [PY](./DSA/Trees/preorder-traversal/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0055 | [Print Shortest Path](./DSA/Graphs/print-shortest-path-) | [PY](./DSA/Graphs/print-shortest-path-/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0056 | [Print The Matrix In Spiral Manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [PY](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0057 | [Rearrange Array Elements By Sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [PY](./DSA/Arrays/rearrange-array-elements-by-sign/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0058 | [Remove Duplicates From Sorted Array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0059 | [13. Search in BST](./DSA/Trees/search-in-bst) | [PY](./DSA/Trees/search-in-bst/solution.py) | ⚪ Unspecified | `Trees` | `2026-10-07` |
+| 0060 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0061 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0062 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-10-06` |
+| 0063 | [Search X In Sorted Array](./DSA/Arrays/search-x-in-sorted-array) | [PY](./DSA/Arrays/search-x-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0064 | [Second Largest Element](./DSA/General/second-largest-element) | [PY](./DSA/General/second-largest-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0065 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0066 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0067 | [Shortest Path With Minimum Effort](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0068 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [PY](./DSA/Arrays/single-element-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0069 | [84. Subset sum equals to target](./DSA/Recursion/subset-sum-equals-to-target) | [PY](./DSA/Recursion/subset-sum-equals-to-target/solution.py) | ⚪ Unspecified | `Recursion` | `2026-10-18` |
+| 0070 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0071 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [PY](./DSA/Graphs/traversal-techniques/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0072 | [249. Triangle](./DSA/General/triangle) | [PY](./DSA/General/triangle/solution.py) | ⚪ Unspecified | `General` | `2026-10-17` |
+| 0073 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0074 | [750. Upper Bound](./DSA/General/upper-bound) | [PY](./DSA/General/upper-bound/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0075 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 
 ---
 
